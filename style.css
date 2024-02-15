@@ -1,0 +1,26 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.section-1{
+    margin: auto;
+    max-width: 900px;
+}
+.user-image{
+    width: 150px;
+    background-color: skyblue;
+    border-radius: 5px;
+    margin: 10px;
+    float: right;
+}
+.resume{
+    background-color: blue;
+    padding: 10px;
+}
+.paragraph-2{
+    clear: both;
+}
+p{
+    padding: 10px;
+}
